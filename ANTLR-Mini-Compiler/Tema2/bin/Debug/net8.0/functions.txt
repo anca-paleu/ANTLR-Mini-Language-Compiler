@@ -1,0 +1,36 @@
+--- Funcții ---
+Nume: aduna
+  Tip Retur: Int
+  Main: NU, Recursivă: NU
+  Parametri:
+    Int a
+    Int b
+  Variabile Locale:
+    (niciuna)
+  Structuri Control:
+    (niciuna)
+-----------------------------
+Nume: scade
+  Tip Retur: Int
+  Main: NU, Recursivă: NU
+  Parametri:
+    Int a
+    Int b
+  Variabile Locale:
+    (niciuna)
+  Structuri Control:
+    (niciuna)
+-----------------------------
+Nume: main
+  Tip Retur: Int
+  Main: DA, Recursivă: NU
+  Parametri:
+    (niciunul)
+  Variabile Locale:
+    Int rezultat (Init: null)
+    Int a (Init: 5)
+    Int b (Init: 10)
+  Structuri Control:
+    <if...else, Linie 13>
+    <while, Linie 19>
+-----------------------------

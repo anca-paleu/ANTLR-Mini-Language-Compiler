@@ -1,0 +1,10 @@
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLang.interp
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLang.tokens
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangBaseListener.cs
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangBaseVisitor.cs
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangLexer.cs
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangLexer.interp
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangLexer.tokens
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangListener.cs
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangParser.cs
+C:/Users/anca/Desktop/TEMA 1 LFC/Proiect-LFC/Tema2/Tema2/obj/Debug/net8.0/MiniLangVisitor.cs
